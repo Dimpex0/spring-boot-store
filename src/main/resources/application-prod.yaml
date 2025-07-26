@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: ${SPRING_DATA_SOURCE_URL}
+
+websiteUrl: https://mystore.com
